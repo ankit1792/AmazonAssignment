@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="88347" started-at="2021-11-28T17:22:43Z" finished-at="2021-11-28T17:24:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="88347" started-at="2021-11-28T17:22:43Z" finished-at="2021-11-28T17:24:12Z">
+      <class name="com.amazon.tests.LaptopPageTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.amazon.tests.LaptopPageTests@4501b7af]" name="beforeSuite" is-config="true" duration-ms="203" started-at="2021-11-28T22:52:43Z" finished-at="2021-11-28T22:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.amazon.tests.LaptopPageTests@4501b7af]" name="setUp" is-config="true" duration-ms="6920" started-at="2021-11-28T22:52:43Z" finished-at="2021-11-28T22:52:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.amazon.tests.LaptopPageTests@4501b7af]" name="TC01" duration-ms="80126" started-at="2021-11-28T22:52:50Z" description="Check the apple laptop with 5 star ratings and high cost and store the product details to excel sheet" finished-at="2021-11-28T22:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.tests.LaptopPageTests@4501b7af]" name="tearDown" is-config="true" duration-ms="1262" started-at="2021-11-28T22:54:10Z" finished-at="2021-11-28T22:54:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.amazon.tests.LaptopPageTests@4501b7af]" name="afterSuite" is-config="true" duration-ms="1815" started-at="2021-11-28T22:54:12Z" finished-at="2021-11-28T22:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.amazon.tests.LaptopPageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
